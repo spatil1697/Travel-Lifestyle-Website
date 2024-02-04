@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Cabin";
+    src: url(assets/fonts/Cabin-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Kufam";
+    src: url(assets/fonts/Kufam-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+#about p {
+    hyphens: auto;
+}
+
+.pgia-slider {
+    height: auto;
+}
+
+.pgia-slider h5 {
+    text-shadow: 2px 2px 5px black;
+}
+
+.pgia-gallery-placeholder {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 100%;
+}
+
+.pgia-gallery-lightbox {
+    background-color: black;
+    opacity: 0.26;
+}
+
+
